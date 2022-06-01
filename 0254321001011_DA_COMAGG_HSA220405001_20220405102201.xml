@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SNXDispositionAssignedMessage>
+<SNXDispositionAssignedMessage xmlns:snx="urn:tracelink:mapper:sl:serial_number_exchange" xmlns="urn:tracelink:mapper:sl:serial_number_exchange" xmlns:cmn="urn:tracelink:mapper:sl:commontypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <snx:ControlFileHeader>
 <cmn:FileSenderNumber>0254321001011</cmn:FileSenderNumber>
 <cmn:FileReceiverNumber>0254321000014</cmn:FileReceiverNumber>
